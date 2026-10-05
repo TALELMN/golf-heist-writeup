@@ -1,0 +1,7 @@
+.git
+.gitignore
+solve.txt
+run.txt
+*.zip
+__pycache__
+*.py[cod]
